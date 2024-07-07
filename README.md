@@ -1,4 +1,4 @@
-Sure! Below is the updated README file including the results, images, and calculated metrics values:
+
 
 # Neural Network Training with Go
 
